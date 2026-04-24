@@ -1,3 +1,5 @@
+Project score: 16.97/20 (84.85%)
+
 1. System Requirements
 - Operating System: Windows 11.0
 - Python: Python 3.8 or higher must be installed.
